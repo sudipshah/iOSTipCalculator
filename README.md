@@ -7,3 +7,4 @@ How many hours did it take? It took 4 hours in total
 
 Which required and optional stories have you completed? The original tipCalculator stories. Also completed the Settings view. Tried to add a keyboard 'return' refresh, but gave up :) 
 
+![alt tag](https://github.com/sudipshah/iOSTipCalculator/blob/master/tipCalculatorDemo.gif)
